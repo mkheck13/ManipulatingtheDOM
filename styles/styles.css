@@ -1,0 +1,9 @@
+
+body{
+    background-color: antiquewhite;
+}
+.head-tag{
+    display: flex;
+    justify-content: center;
+    margin: 50px;
+}
